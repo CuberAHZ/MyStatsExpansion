@@ -1,0 +1,4 @@
+name: MyStatsExpansion
+version: '1.0-SNAPSHOT'
+main: xyz.cuberliu.myStatsExpansion.MyStatsExpansion
+api-version: '1.21'
